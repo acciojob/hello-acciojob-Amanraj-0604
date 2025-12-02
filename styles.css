@@ -1,13 +1,16 @@
 
 /* Your CSS Code here. */https://www.svgrepo.com/show/345221/three-dots.svg
+/* Your CSS Code here. */
 
 #job {
-	  width: 150px !important;  
-	height:150px;
-	background:#000000;
+  width: 150px;
+  height: 150px;
+  background: #000000;
+  box-sizing: border-box;
 }
-.hello-accio{
-	color:#ffffff;
-	margin-left:32px;
-	padding:10px;
+
+.hello-accio {
+  color: #ffffff;
+  margin-left: 32px;
+  padding: 10px;
 }
